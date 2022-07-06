@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/sdk-core": "^3.0.1",
+    "@uniswap/smart-order-router": "^2.5.32",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9",
+    "jsbi": "^3.2.5"
+  }
+}
